@@ -1,0 +1,23 @@
+{
+  "name": "bf-static",
+  "version": "1.0.0",
+  "description": "Bowen Young 和 Felix hen 的静态资源库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BowenYoung/BF-static.git"
+  },
+  "keywords": [
+    "hexo",
+    "静态资源"
+  ],
+  "author": "Bowen Young & Felix Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BowenYoung/BF-static/issues"
+  },
+  "homepage": "https://github.com/BowenYoung/BF-static#readme"
+}
