@@ -9,7 +9,7 @@ Bowen Young和Felix Chen的静态资源库，欢迎使用。
 
 ### /libs/
 artalk/: Artalk表情包配置文件，包括酷安和HEO的表情包
-<br>grayscale/: 在悲痛的日子里，令网站全局变灰的js
+<br>grayscale/: 在悲痛的日子里，令网站全局变灰的js，让我们一同为受难同胞默哀
 <br>twikoo/: twikoo表情包配置文件，包括颜文字、emoji、b站热词、小电视、2233娘、alu、qq、猥琐萌和HEO
 
 ### /media/
