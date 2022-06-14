@@ -1,6 +1,6 @@
 {
   "name": "bf-static",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Bowen Young 和 Felix hen 的静态资源库",
   "main": "index.js",
   "scripts": {
