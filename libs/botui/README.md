@@ -13,7 +13,7 @@
 <body>
 <link href="https://npm.elemecdn.com/bf-static/libs/botui/botui.css" rel="stylesheet">
 </br>
-<div class="botui-app-container" id="bowenbot" style="min-height: 0px; padding: 2px 6px 4px; background-color: rgba(255, 255, 255, 0.5); border-radius: 10px;">
+<div class="botui-app-container" id="bowenbot" style="min-height: 0px; padding: 2px 6px 4px; background-color: rgba(169, 169, 169, 0.5); border-radius: 10px;">
 		<center>与 <你的昵称> 对话中. . .</center>
 		<bot-ui>
 		</bot-ui>
