@@ -13,6 +13,7 @@ artalk/: Artalk表情包配置文件，包括酷安和HEO的表情包
 <br>twikoo/: twikoo表情包配置文件，包括颜文字、emoji、b站热词、小电视、2233娘、alu、qq、猥琐萌和HEO
 <br>diytitle/: 检测用户是否正在浏览你的网站，在导航栏显示对应消息
 <br>fixed_comment/: 修改评论直达的逻辑，变为右侧评论展开
+<br>botu/i: 自定义预设聊天机器人，详情请看目录下的[README.md](https://npm.elemecdn.com/libs/botui/README.md)
 
 ### /media/
 fonts/: 可口可乐在乎体、鸿蒙字体、oppo字体、庞门正道粗黑体、造字工房言宋体
