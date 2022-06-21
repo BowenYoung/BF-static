@@ -34,4 +34,6 @@
 
 在你新建的js文件（`/js/bot_custom.js`）中配置属于你的机器人对话信息。格式可以参考此目录下的[bot_custom.js](https://npm.elemecdn.com/bf-static/libs/botui/bot_custom.js)
 
+注意上述代码中的`id="xxx"`要与`bot_custom.js`中的`var botui = new BotUI("xxx")对应！;`
+
 注意！如果含有中文需要使用UTF-8编码格式，否则可能出现中文乱码！
