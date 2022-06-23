@@ -16,6 +16,6 @@ artalk/: Artalk表情包配置文件，包括酷安和HEO的表情包
 <br>botu/i: 自定义预设聊天机器人，详情请看目录下的README.md
 
 ### /media/
-fonts/: 可口可乐在乎体、鸿蒙字体、oppo字体、庞门正道粗黑体、造字工房言宋体
+fonts/: 可口可乐在乎体、鸿蒙字体、OPPO字体、庞门正道粗黑体、造字工房言宋体、英文科技风Quantum字体、毛体
 <br>footer_bowen/: [Bowenの破站](https://bowenyoung.cn)页脚徽章
 <br>footer_felix/: [Felix_Chen的基地](https://felixchen0707.cn)页脚徽章（为去重，部分在footer_bowen中）
