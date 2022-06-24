@@ -64,6 +64,11 @@
                     content: "还喜欢看NBA和F1，窝法氦镁烷！"
                 })
             }).then(function() {
+                return botui.message.bot({
+                    delay: 1500,
+                    content: "欢迎同好前来交流！"
+                })
+            }).then(function() {
                 return botui.action.button({
                     delay: 1500,
                     action: [{
@@ -84,7 +89,7 @@
             }).then(function() {
                 return botui.message.bot({
                     delay: 1500,
-                    content: "另外就是为了能有一个渠道来分享我的学习经历🤓"
+                    content: "另外就是为了能有一个渠道来分享我的学习经历以及生活🤓"
                 })
             }).then(function() {
                 return botui.action.button({
