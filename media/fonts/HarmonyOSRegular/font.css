@@ -1,0 +1,8 @@
+@font-face{
+    font-family: 'HarmonyOS Sans SC';
+    font-display: swap;
+    src: url('https://npm.elemecdn.com/bf-static@1.0.11/media/fonts/HarmonyOSRegular/HarmonyOSRegular.ttf') format("truetype");
+}
+body {
+    font-family: 'HarmonyOS Sans SC';
+}
