@@ -13,7 +13,32 @@
         }).then(function() {
             return botui.message.bot({
                 delay: 1000,
-                content: "一个梦想成为（白帽）黑客的普通大学牲"
+                content: "你也可以叫我BeaCox"
+            })
+        }).then(function() {
+            return botui.message.bot({
+                delay: 1000,
+                content: "这个名字含义之一是Be a cox，做一个舵手"
+            })
+        }).then(function() {
+            return botui.message.bot({
+                delay: 1000,
+                content: "意味着我不愿随波逐流，我更喜欢将方向掌握在自己手中"
+            })
+        }).then(function() {
+            return botui.message.bot({
+                delay: 1000,
+                content: "Cox同时也取自我的偶像Kobe·Bean·Bryant·Cox，我想成为他那般优秀的人"
+            })
+        }).then(function() {
+            return botui.message.bot({
+                delay: 1000,
+                content: "But I don't wanna be the next Kobe, I only wanna be BeaCox"
+            })
+        }).then(function() {
+            return botui.message.bot({
+                delay: 1000,
+                content: "我是一个梦想成为（白帽）黑客的普通大学牲"
             })
         }).then(function() {
             return botui.action.button({
