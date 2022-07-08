@@ -4345,6 +4345,54 @@
         {
           "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.17.2/Sticker-100/缺牙笑.png\">",
           "text": "heo-缺牙笑"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/敬礼.png\">",
+          "text": "heo-敬礼"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/失去信号.png\">",
+          "text": "heo-失去信号"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/值得肯定.png\">",
+          "text": "heo-值得肯定"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/不服吗.png\">",
+          "text": "heo-不服吗"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/读书.png\">",
+          "text": "heo-读书"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/滑稽吃瓜.png\">",
+          "text": "heo-滑稽吃瓜"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/蒙面滑稽.png\">",
+          "text": "heo-蒙面滑稽"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/惊吓白眼.png\">",
+          "text": "heo-惊吓白眼"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/翻白眼.png\">",
+          "text": "heo-翻白眼"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/正确.png\">",
+          "text": "heo-正确"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/错误.png\">",
+          "text": "heo-错误"
+        },
+        {
+          "icon": "<img src=\"https://npm.elemecdn.com/sticker-heo@0.19.0/Sticker-100/警告.png\">",
+          "text": "heo-警告"
         }
       ]
     },
